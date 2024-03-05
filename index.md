@@ -4,17 +4,17 @@ My first website using Markdown and GitHub Pages. I chose the theme Hacker becau
 
 ## Important Links
 
-Here's a clickable link: [My GitHub profile](https://github.com/Bdowdle4)
+Here's a link to my personal profile: [My GitHub profile](https://github.com/Bdowdle4)
 
 ## Favorite Images
 
-Images look like links except with an exclamation directly in front
+This is my dog Nimeria.
 
 ![My Profile Image](https://avatars.githubusercontent.com/u/162188958?s=400&u=60a8bbb0a99ac0f89c7a9c88838a2c908e927af3&v=4)
 
 ## Reminders
 
-Use a dash space for unordered lists
+My goal is to implement these items before the next project:
 
 - Get more creative in your customizations
 
