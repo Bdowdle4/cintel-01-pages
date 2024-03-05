@@ -10,7 +10,7 @@ Here's a clickable link: [My GitHub profile](https://github.com/Bdowdle4)
 
 Images look like links except with an exclamation directly in front
 
-![My Profile Image](C:\Users\Britt\OneDrive\Documents\44630-82\CC1.2.png)
+![My Profile Image](https://avatars.githubusercontent.com/u/162188958?s=400&u=60a8bbb0a99ac0f89c7a9c88838a2c908e927af3&v=4)
 
 ## Reminders
 
